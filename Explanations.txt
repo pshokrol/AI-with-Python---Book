@@ -1,0 +1,5 @@
+This repository contains my practices on Artificial Intelligence with Python (Prateek Joshi, 2017).
+As a practice, I wrote the codes in each chapter line by line by myself and tried to troubleshoot the code to uderstand AI and practice Python.
+In some cases, I improved the code to make it compatible with Python 3. Thus my codes are different from the original ones in the book.
+There are explanations for some of the codes.
+I hope that these codes help those peole who read this magnificent book written by Prateek Joshi.
